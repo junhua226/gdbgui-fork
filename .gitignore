@@ -1,0 +1,17 @@
+dist
+*egg*
+node_modules
+build
+executable
+.DS_Store
+*.a.dSYM
+gdbgui_pyinstaller.spec
+*-link
+*-link.c
+*-link.dSYM
+*.pyc
+yarn-error.log
+venv
+site
+gdbgui/static/js/*
+__pycache__
